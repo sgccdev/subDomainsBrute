@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+errors.log
+bad_dns_servers.txt
+*.txt
+!dict/*.txt
+
+AGENTS.md
